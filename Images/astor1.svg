@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 646 265" style="enable-background:new 0 0 646 265;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:none;}
+	.st3{fill:#358AFF;}
+	.st4{font-family:'Bauhaus93';}
+	.st5{font-size:105px;}
+	.st6{fill:#FFFFFF;}
+	.st7{font-family:'ArialRoundedMTBold';}
+	.st8{font-size:70px;}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="23" y1="85.1924" x2="116.8893" y2="85.1924">
+		<stop  offset="0" style="stop-color:#CCE0F4"/>
+		<stop  offset="6.405089e-02" style="stop-color:#C3DCF2"/>
+		<stop  offset="0.1706" style="stop-color:#A9D2EE"/>
+		<stop  offset="0.3066" style="stop-color:#80C2E7"/>
+		<stop  offset="0.4649" style="stop-color:#47ACDE"/>
+		<stop  offset="0.5674" style="stop-color:#1E9CD7"/>
+		<stop  offset="0.8652" style="stop-color:#0075BE"/>
+		<stop  offset="0.9944" style="stop-color:#005B97"/>
+	</linearGradient>
+	<path class="st0" d="M116.9,85.2v59.4c-8.7,4.3-18.4,6.8-28.7,6.8c-36,0-65.1-29.6-65.1-66.2C23,48.8,51.8,19.3,87.5,19
+		c-25.6,0.3-46.3,21.6-46.3,47.7c0,26.1,20.6,47.3,46.2,47.7c0.2,0,0.5,0,0.7,0c0.2,0,0.5,0,0.7,0C104.4,114,116.9,101.1,116.9,85.2
+		z"/>
+</g>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="41.203" y1="88.5" x2="153.2953" y2="88.5">
+	<stop  offset="0" style="stop-color:#CCE0F4"/>
+	<stop  offset="6.405089e-02" style="stop-color:#C3DCF2"/>
+	<stop  offset="0.1706" style="stop-color:#A9D2EE"/>
+	<stop  offset="0.3066" style="stop-color:#80C2E7"/>
+	<stop  offset="0.4649" style="stop-color:#47ACDE"/>
+	<stop  offset="0.5674" style="stop-color:#1E9CD7"/>
+	<stop  offset="0.8652" style="stop-color:#0075BE"/>
+	<stop  offset="0.9944" style="stop-color:#005B97"/>
+</linearGradient>
+<path class="st1" d="M153.3,85.2V158h-6.1c-16.8,0-30.3-5.6-30.3-12.5V85.2C116.9,69.1,104,56,88.1,56S59.4,69.1,59.4,85.2
+	c0,15.9,12.5,28.8,28,29.2C61.8,114,41.2,92.8,41.2,66.7c0-26.1,20.7-47.4,46.3-47.7c0.2,0,0.4,0,0.6,0c0.2,0,0.4,0,0.6,0
+	c23.1,0.2,43.4,12.7,54.7,31.3C149.7,60.4,153.3,72.4,153.3,85.2z"/>
+<rect x="160.5" y="85" class="st2" width="1099.5" height="73"/>
+<text transform="matrix(0.9842 0 0 1 160.5151 155.0342)" class="st3 st4 st5">stor</text>
+<rect x="23.3" y="177" class="st2" width="616.3" height="195.7"/>
+<text transform="matrix(0.9842 0 0 1 23.2798 227.96)" class="st6 st7 st8">Cleaning Services</text>
+</svg>
